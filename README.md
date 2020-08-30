@@ -1,1 +1,2 @@
-# c21-practice
+# collisionAlgorithm
+Algorithm to detect collision between two objects
